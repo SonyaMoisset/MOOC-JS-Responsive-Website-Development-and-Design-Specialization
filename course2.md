@@ -1,5 +1,5 @@
 #Responsive Website Development and Design Specialization
-##Responsive Website Basics: Code with HTML, CSS, and JavaScript
+##Responsive Web Design
 ###About the Course:
 In this course you will learn how to apply concepts from interaction design and human computer interaction in order to design and build an interactive, professional looking website. You will learn how to make your web page designs adapt to different screen sizes using responsive grid layouts. You will learn how to add navigation and other design elements, and you will learn how to separate data and display using JavaScript objects and templates. 
 
