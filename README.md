@@ -13,6 +13,9 @@ This Specialization covers the basics of modern full stack web development, from
 ##Updates
 ###07/11/2015
 - Enrolled in the program
-- Finished Week 1 | HTML & CSS in Course 1 | Responsive Website Basics: Code with HTML, CSS, and JavaScript
+- Finished Week 1 | Course introduction & HTML in Course 1 | Responsive Website Basics: Code with HTML, CSS, and JavaScript
 - Finished Week 1 | Course overview & Web design principles in Course 2 | Responsive Web Design
 - Finished Week 2 | Realising design principles in code in Course 2 | Responsive Web Design
+
+###07/11/2015
+- Finished Week 2 | CSS in Course 1 | Responsive Website Basics: Code with HTML, CSS, and JavaScript
