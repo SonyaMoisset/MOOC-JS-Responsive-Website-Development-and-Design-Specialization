@@ -31,3 +31,6 @@ This Specialization covers the basics of modern full stack web development, from
 
 ###29/11/2015
 - Finished Week 4 | Building a full gallery app in Course 2 | Responsive Web Design
+
+###03/12/2015
+- Finished Week 1 | Course Overview and Introduction to Meteor in Course 3 | Introduction to Meteor.js Development
