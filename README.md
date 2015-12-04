@@ -34,3 +34,6 @@ This Specialization covers the basics of modern full stack web development, from
 
 ###03/12/2015
 - Finished Week 1 | Course Overview and Introduction to Meteor in Course 3 | Introduction to Meteor.js Development
+
+###04/12/2015
+- Finished Week 2 | Databases and collections in Course 3 | Introduction to Meteor.js Development
