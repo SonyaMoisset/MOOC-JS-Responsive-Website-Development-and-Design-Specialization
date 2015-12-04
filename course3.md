@@ -26,3 +26,28 @@ At the end of the course, you will be able to:
 - Introduction to Meteor Summary
 - Quiz: Introduction to Meteor summary quiz
 - Assignment: Install Meteor and edit some templates
+
+####Week 2
+#####Databases and collections
+- Introduction
+- Meteor distributed data model
+- Create a collection of images
+- Better start up script, removing items from a collection
+- Add an image rating frunction: Updating and sorting
+- Implement image adding with a Bootstrap Modal
+- Databases and collections summary
+- Quiz: Databases and collections summary quiz
+
+####Week 3
+#####User authentication
+- Introduction
+- User authentication with Meteor.js
+- Tidying up the design with a navbar
+- Accessing user information
+- Customising the user registration form
+- Attaching users to images
+- Filtering images by user
+- Removing the image filter
+- Infinite scroll
+- User authentication summary
+- Quiz: User authentication summary quiz
