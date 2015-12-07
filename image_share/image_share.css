@@ -1,5 +1,12 @@
 /* CSS declarations go here */
 .thumbnail {
-    min-height:500px;
-    max-height:500px;
+    height:500px;
+}
+
+.thumbnail-img {
+    max-height: 300px;
+}
+
+body {
+    padding-top: 60px;
 }
