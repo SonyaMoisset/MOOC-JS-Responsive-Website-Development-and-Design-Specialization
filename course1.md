@@ -38,7 +38,7 @@ At the end of the course, you will be able to:
 - Responsive grid
 - CSS Summary
 - Assignment: Test your CSS and HTML
-- Quiz: CSS summary quiz
+- Quiz: CSS summary quiz | 100%
 
 #### Week 3
 ##### Beginning JavaScript
