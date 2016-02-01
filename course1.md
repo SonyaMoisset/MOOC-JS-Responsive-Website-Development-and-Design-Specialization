@@ -64,5 +64,4 @@ At the end of the course, you will be able to:
 - eReader example
 - Going deeper into JavaScript summary
 - Course summary
-- Quiz: Going deeper into JavaScript summary quiz
-- Assignment: Build a Responsive Web Page
+- Quiz: Going deeper into JavaScript summary quiz | 100%
