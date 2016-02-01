@@ -51,7 +51,7 @@ At the end of the course, you will be able to:
 - Anonymous functions
 - Image gallery example
 - Summary
-- Quiz: Beginning JavaScript summary quiz
+- Quiz: Beginning JavaScript summary quiz | 100%
 
 #### Week 4
 ##### Going deeper into JavaScript
