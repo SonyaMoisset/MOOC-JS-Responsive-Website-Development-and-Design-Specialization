@@ -1,7 +1,7 @@
-#Responsive Website Development and Design Specialization
-##Responsive Website Basics: Code with HTML, CSS, and JavaScript
-###About the Course:
-In this course you will learn three key website programming and design languages: HTML, CSS and JavaScript. You will create a web page using basic elements to control layout and style.  Additionally, your web page will support interactivity. 
+# Responsive Website Development and Design Specialization
+## Responsive Website Basics: Code with HTML, CSS, and JavaScript
+### About the Course:
+In this course you will learn three key website programming and design languages: HTML, CSS and JavaScript. You will create a web page using basic elements to control layout and style.  Additionally, your web page will support interactivity.
 
 At the end of the course, you will be able to:
 - Define the purpose of HTML, CSS and JavaScript
@@ -12,8 +12,8 @@ At the end of the course, you will be able to:
 - Manipulate web page content using JavaScript
 - Respond to user input using JavaScript
 
-####Week 1 
-#####Course introduction & HTML
+#### Week 1
+##### Course introduction & HTML
 - Course introduction
 - Introduction
 - Web basics
@@ -25,14 +25,14 @@ At the end of the course, you will be able to:
 - The World's first web page revisited
 - What does 'responsive' mean?
 - HTML summary
-- Quiz: HTML summary quiz
+- Quiz: HTML summary quiz | 100%
 
-####Week 2
-#####CSS
+#### Week 2
+##### CSS
 - Introduction
 - External CSS file
 - Fonts
-- Customising links
+- Customizing links
 - Layout control
 - Install Bootstrap
 - Responsive grid
@@ -40,8 +40,8 @@ At the end of the course, you will be able to:
 - Assignment: Test your CSS and HTML
 - Quiz: CSS summary quiz
 
-####Week 3
-#####Beginning JavaScript
+#### Week 3
+##### Beginning JavaScript
 - Introduction
 - Introduction to JavaScript
 - Responding to mouse clicks
@@ -53,8 +53,8 @@ At the end of the course, you will be able to:
 - Summary
 - Quiz: Beginning JavaScript summary quiz
 
-####Week 4
-#####Going deeper into JavaScript
+#### Week 4
+##### Going deeper into JavaScript
 - Introduction
 - Variables
 - Using variables
