@@ -47,3 +47,4 @@ This Specialization covers the basics of modern full stack web development, from
 
 ### 02/02/2016
 - Review Week 3 | Beginning JavaScript in Course 1 | Responsive Website Basics: Code with HTML, CSS, and JavaScript
+- Review Week 4 | Going deeper into JavaScript in Course 1 | Responsive Website Basics: Code with HTML, CSS, and JavaScript
