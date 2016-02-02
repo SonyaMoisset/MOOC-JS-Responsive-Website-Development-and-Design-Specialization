@@ -23,7 +23,7 @@ At the end of the course, you will be able to:
 - Guidelines for design
 - Design examples
 - Summary
-- Quiz: Web design principles summary quiz
+- Quiz: Web design principles summary quiz | 100%
 
 #### Week 2
 ##### Realising design principles in code
