@@ -52,3 +52,4 @@ This Specialization covers the basics of modern full stack web development, from
 - Review Week 2 | Realising design principles in code in Course 2 | Responsive Web Design
 - Review Week 3 | Adding content to websites in Course 2 | Responsive Web Design
 - Review Week 4 | Building a full gallery app in Course 2 | Responsive Web Design
+- Review Week 1 | Course Overview and Introduction to Meteor in Course 3 | Introduction to Meteor.js Development
