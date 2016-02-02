@@ -1,19 +1,19 @@
-#Responsive Website Development and Design Specialization
-##Responsive Web Design
-###About the Course:
-In this course you will learn how to apply concepts from interaction design and human computer interaction in order to design and build an interactive, professional looking website. You will learn how to make your web page designs adapt to different screen sizes using responsive grid layouts. You will learn how to add navigation and other design elements, and you will learn how to separate data and display using JavaScript objects and templates. 
+# Responsive Website Development and Design Specialization
+## Responsive Web Design
+### About the Course:
+In this course you will learn how to apply concepts from interaction design and human computer interaction in order to design and build an interactive, professional looking website. You will learn how to make your web page designs adapt to different screen sizes using responsive grid layouts. You will learn how to add navigation and other design elements, and you will learn how to separate data and display using JavaScript objects and templates.
 
 At the end of the course, you will be able to:
 - Explain why users need to know where they are, where they can go and what is on a web page
-- Create wireframe mockups of web pages 
+- Create wireframe mockups of web pages
 - Identify the key functional elements of web pages
 - Use Bootstrap components to realise page designs
 - Use JavaScript data structures such as arrays and objects to define the data used in a web page
-- Use the Handlebars template library to convert data to HTML 
+- Use the Handlebars template library to convert data to HTML
 - Add interactivity to templates using JavaScript event listeners
 
-####Week 1 
-#####Responsive Web Design: Course overview & Web design principles
+#### Week 1
+##### Responsive Web Design: Course overview & Web design principles
 - Introduction
 - Module introduction
 - Usability and user experience
@@ -25,8 +25,8 @@ At the end of the course, you will be able to:
 - Summary
 - Quiz: Web design principles summary quiz
 
-####Week 2
-#####Realising design principles in code
+#### Week 2
+##### Realising design principles in code
 - Introduction
 - Basic bootstrap setup
 - Where can you go?
@@ -39,8 +39,8 @@ At the end of the course, you will be able to:
 - Quiz: Realising design principles in code summary quiz
 - Assignment: Design A Website
 
-####Week 3
-#####Adding content to websites
+#### Week 3
+##### Adding content to websites
 - Introduction
 - Separating structure and content
 - JavaScript objects
@@ -51,8 +51,8 @@ At the end of the course, you will be able to:
 - Summary
 - Quiz: Adding content to websites summary quiz
 
-####Week 4
-#####Building a full gallery app
+#### Week 4
+##### Building a full gallery app
 - Introduction
 - JavaScript arrays
 - Storing objects in arrays and displaying them with a template
