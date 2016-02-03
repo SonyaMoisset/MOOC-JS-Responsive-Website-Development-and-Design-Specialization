@@ -36,4 +36,4 @@ At the end of this course, you will be able to:
 - Who is editing? UI
 - Improve the UI
 - User accounts, packages and methods summary
-- Quiz: User accounts, packages and methods summary quiz | 80%
+- Quiz: User accounts, packages and methods summary quiz | 90%
