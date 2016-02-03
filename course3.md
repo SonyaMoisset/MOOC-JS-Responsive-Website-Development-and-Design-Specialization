@@ -25,7 +25,7 @@ At the end of the course, you will be able to:
 - Responding to user actions
 - Introduction to Meteor Summary
 - Quiz: Introduction to Meteor summary quiz
-- Assignment: Install Meteor and edit some templates
+- Assignment: Install Meteor and edit some templates | 90%
 
 #### Week 2
 ##### Databases and collections
@@ -51,3 +51,17 @@ At the end of the course, you will be able to:
 - Infinite scroll
 - User authentication summary
 - Quiz: User authentication summary quiz
+
+#### Week 4
+##### Security and routing
+- Introduction
+- Deploying Meteor.js applications
+- How to organise your code
+- Hack into your site!
+- Make your site more secure
+- Tidy up the project
+- Routing with iron:router
+- Better routing
+- Security and routing summary
+- Quiz: Security and routing summary quiz
+- Assignment: Build a social website aggregator
