@@ -24,7 +24,7 @@ At the end of this course, you will be able to:
 - Bootstrap it!
 - HTML preview
 - MongoDB, Meteor and reactive data summary
-- Quiz: MongoDB, Meteor and reactive data summary quiz | 80%
+- Quiz: MongoDB, Meteor and reactive data summary quiz | 90%
 
 #### Week 2
 ##### User accounts, packages and methods
