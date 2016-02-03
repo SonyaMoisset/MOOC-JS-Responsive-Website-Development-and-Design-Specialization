@@ -25,7 +25,7 @@ At the end of the course, you will be able to:
 - Responding to user actions
 - Introduction to Meteor Summary
 - Quiz: Introduction to Meteor summary quiz
-- Assignment: Install Meteor and edit some templates | 90%
+- Assignment: Install Meteor and edit some templates | 100%
 
 #### Week 2
 ##### Databases and collections
