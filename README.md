@@ -57,3 +57,4 @@ This Specialization covers the basics of modern full stack web development, from
 
 ### 03/02/2016
 - Review Week 3 | User authentication in Course 3 | Introduction to Meteor.js Development
+- Finished Week 4 | Security and routing in Course 3 | Introduction to Meteor.js Development
