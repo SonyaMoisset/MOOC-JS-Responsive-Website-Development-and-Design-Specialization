@@ -31,3 +31,13 @@ At the end of this course, you will be able to:
 - Administrating the blog and making it responsive
 - Creating A Portfolio Website with Blog Summary
 - Quiz: Creating A Portfolio Website with Blog summary quiz | 100%
+
+#### Week 2
+##### Collaborative Apps 1 : Music Machine 2015
+- Introduction
+- Project structure
+- Adding sound
+- Adding interaction
+- Making it collaborative
+- Summary
+- Quiz: Collaborative Apps 1 : Music Machine 2015 summary quiz | 100%
