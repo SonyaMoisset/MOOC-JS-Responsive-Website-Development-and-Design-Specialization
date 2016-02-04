@@ -64,3 +64,4 @@ This Specialization covers the basics of modern full stack web development, from
 ### 04/02/2016
 - Finished Week 3 | Publish and subscribe model and MongoDB filters in Course 4 | Web Application Development with JavaScript and MongoDB
 - Finished Week 4 | SimpleSchemas, autoform and code re-organisation in Course 4 | Web Application Development with JavaScript and MongoDB
+- Finished Week 1 | Creating a Portfolio Website with a Blog in Course 5 | Responsive Website Tutorial and Examples
