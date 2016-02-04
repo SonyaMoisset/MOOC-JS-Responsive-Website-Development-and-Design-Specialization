@@ -7,7 +7,7 @@ This Specialization covers the basics of modern full stack web development, from
 #### Course 1. Responsive Website Basics: Code with HTML, CSS, and JavaScript | 100%
 #### Course 2. Responsive Web Design
 #### Course 3. Introduction to Meteor.js Development
-#### Course 4. Web Application Development with JavaScript and MongoDB
+#### Course 4. Web Application Development with JavaScript and MongoDB | 84%
 #### Course 5. Responsive Website Tutorial and Examples
 
 ## Updates
@@ -63,3 +63,4 @@ This Specialization covers the basics of modern full stack web development, from
 
 ### 04/02/2016
 - Finished Week 3 | Publish and subscribe model and MongoDB filters in Course 4 | Web Application Development with JavaScript and MongoDB
+- Finished Week 4 | SimpleSchemas, autoform and code re-organisation in Course 4 | Web Application Development with JavaScript and MongoDB
