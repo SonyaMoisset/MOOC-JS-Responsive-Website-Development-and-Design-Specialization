@@ -37,3 +37,17 @@ At the end of this course, you will be able to:
 - Improve the UI
 - User accounts, packages and methods summary
 - Quiz: User accounts, packages and methods summary quiz | 90%
+
+#### Week 3
+##### Publish and subscribe model and MongoDB filters
+- Introduction
+- More docs!
+- Docs in the DB
+- Using Session
+- Loading the new doc
+- Document list and editable title
+- Controlling document access
+- Publish and subscribe
+- Final polish
+- Publish and subscribe MongoDB filters summary
+- Quiz: Publish and subscribe MongoDB filters summary quiz | 70%
