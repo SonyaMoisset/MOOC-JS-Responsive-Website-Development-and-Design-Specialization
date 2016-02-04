@@ -51,3 +51,17 @@ At the end of this course, you will be able to:
 - Final polish
 - Publish and subscribe MongoDB filters summary
 - Quiz: Publish and subscribe MongoDB filters summary quiz | 70%
+
+#### Week 4
+##### Introduction
+- Reorganising the code
+- Fixing bugs
+- Routing
+- Iron:router
+- Grid layout
+- Find and Findone
+- Comment box
+- Comment list
+- SimpleSchemas, autoform and code re-organisation summary
+- Course Summary
+- Quiz: SimpleSchemas, autoform and code re-organisation summary quiz | 80%
