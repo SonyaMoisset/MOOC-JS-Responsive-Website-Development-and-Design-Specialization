@@ -60,3 +60,6 @@ This Specialization covers the basics of modern full stack web development, from
 - Finished Week 4 | Security and routing in Course 3 | Introduction to Meteor.js Development
 - Finished Week 1 | MongoDB, Meteor and reactive data in Course 4 | Web Application Development with JavaScript and MongoDB
 - Finished Week 2 | User accounts, packages and methods in Course 4 | Web Application Development with JavaScript and MongoDB
+
+### 04/02/2016
+- Finished Week 3 | Publish and subscribe model and MongoDB filters in Course 4 | Web Application Development with JavaScript and MongoDB
