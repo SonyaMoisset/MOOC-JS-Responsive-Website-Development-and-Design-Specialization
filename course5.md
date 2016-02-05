@@ -51,3 +51,13 @@ At the end of this course, you will be able to:
 - Review
 - Collaborative Apps 2 : Drawing Machine summary
 - Quiz: Collaborative Apps 2 : Drawing Machine summary quiz | 100%
+
+#### Week 4
+##### Creating a Data Visualisation Application
+- Introduction/ re-cap
+- Setting up the interface
+- Getting data
+- Rendering data on the page
+- Review
+- Creating a Data Visualisation Application Summary
+- Quiz: Creating a Data Visualisation Application summary quiz | 100%
