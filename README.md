@@ -66,3 +66,6 @@ This Specialization covers the basics of modern full stack web development, from
 - Finished Week 4 | SimpleSchemas, autoform and code re-organisation in Course 4 | Web Application Development with JavaScript and MongoDB
 - Finished Week 1 | Creating a Portfolio Website with a Blog in Course 5 | Responsive Website Tutorial and Examples
 - Finished Week 2 | Collaborative Apps 1 : Music Machine 2015 in Course 5 | Responsive Website Tutorial and Examples
+
+### 05/02/2016
+- Finished Week 3 | Collaborative Apps 2 : Drawing Machine in Course 5 | Responsive Website Tutorial and Examples
