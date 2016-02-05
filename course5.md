@@ -41,3 +41,13 @@ At the end of this course, you will be able to:
 - Making it collaborative
 - Summary
 - Quiz: Collaborative Apps 1 : Music Machine 2015 summary quiz | 100%
+
+#### Week 3
+##### Collaborative Apps 2 : Drawing Machine
+- Drawing machine introduction
+- Drawing machine example
+- Creating the application
+- Creating and serving data
+- Review
+- Collaborative Apps 2 : Drawing Machine summary
+- Quiz: Collaborative Apps 2 : Drawing Machine summary quiz | 100%
